@@ -14,13 +14,15 @@ LginnovaTool is an open source project developed in C++ within Visual Studio Pre
 ✅ Fix some system-specific bugs using the 'Repair iDevice' button.
 # 💡 Development and Learning Opportunities
 **This tool does not override any security features (such as iCloud lock or mobile device management). Instead, the program is designed to:**
+
 🔹 Support novice developers in understanding how to interact with iOS devices.
 
 🔹 Provide a simple and organized codebase for easy learning.
 
 🔹 Enable developers to extend and enhance the tool with additional functionality.
 
-image.png
+![LginnovaTool Screenshot](image.png)
+
 
 # ⚠️ Important Notes
 🔹 This program was developed entirely by our team and is a small part of a larger native tool.
