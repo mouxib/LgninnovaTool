@@ -4,7 +4,7 @@ LginnovaTool is an open source project developed in C++ within Visual Studio Pre
 
 # 📌 Features and Functionality
 **LginnovaTool offers a variety of functions, including:** 
-✅ Extract device information (serial number, iOS version, mode, battery status, etc.)
+✅ Extract device information (serial number, iOS version, mode, etc...)
 ✅ Use the Libimobiledevice library to communicate with iPhones
 ✅ Easy-to-use interface
 ✅ Fix some system-specific bugs using the 'Repair iDevice' button
