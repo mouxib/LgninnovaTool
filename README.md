@@ -22,7 +22,9 @@ LginnovaTool is an open source project developed in C++ within Visual Studio Pre
 **Date of development**:**[01/10/2024]**
 # Contact: 
 **instagram**: https://www.instagram.com/myb.icloud/ 
+
 **Telegram**: https://t.me/mybiclouds 
+
 **TikTok**: https://www.tiktok.com/@myb_team 
 
 ## We encourage you to explore, modify, and improve the tool to expand its capabilities! 🚀
